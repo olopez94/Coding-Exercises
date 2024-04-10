@@ -10,12 +10,7 @@ HELLO
 
 Sample Input
 
--
 
 Sample Output
 
 HELLO
-
-Explanation
-
--
