@@ -5,4 +5,4 @@ My solutions for coding exercises from multiple platforms.
 ## [Exercism](https://exercism.org)
 
 
-## Hackerrank
+## [Hackerrank](https://www.hackerrank.com/)
