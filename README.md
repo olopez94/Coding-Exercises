@@ -6,3 +6,6 @@ My solutions for coding exercises from multiple platforms.
 
 
 ## [Hackerrank](https://www.hackerrank.com/)
+
+
+## [Rosalind](https://rosalind.info/problems/locations/)
