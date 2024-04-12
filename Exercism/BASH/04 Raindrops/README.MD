@@ -21,3 +21,5 @@ Examples
  -   28 is divisible by 7, but not 3 or 5, so the result would be "Plong".
  -   30 is divisible by 3 and 5, but not 7, so the result would be "PlingPlang".
  -   34 is not divisible by 3, 5, or 7, so the result would be "34".
+
+A common way to test if one number is evenly divisible by another is to compare the remainder or modulus to zero. Most languages provide operators or functions for one (or both) of these.
